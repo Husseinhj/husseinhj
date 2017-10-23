@@ -1,9 +1,9 @@
 # Hussein Habibi Juybari
 Hi guys. I'm developer.
 
-C# .NET (functional programming)
-Objective-C
-Swift
+- C# .NET (functional programming)
+- Objective-C
+- Swift
 
 ## Projects
 
