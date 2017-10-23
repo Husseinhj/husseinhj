@@ -3,11 +3,11 @@ Hi guys.
 
 ## Projects
 
- - Fast dictionary Windows Phone app.
- - Fax.IR Windows Phone app.
- - Navad tv show iOS (Objective-C app).  
- - ChabokPush iOS framework.
- - ChabokPush UWP SDK.
+ - `Fast dictionary` Windows Phone app.
+ - `Fax.IR` Windows Phone app.
+ - `Navad` tv show iOS (Objective-C app).  
+ - `ChabokPush` iOS framework.
+ - `ChabokPush` UWP SDK.
 
 ## Libraries
 
@@ -17,7 +17,7 @@ Hi guys.
 This frame library was inheritance by Frame and show your pages, new for first time and you can see your page again from cache in RAM.
 [CacheFrame.UWP repository](https://github.com/Husseinhj/CacheFrame.UWP)
 
-Nuget :
+**Nuget :**
 ```
 PM> Install-Package CacheFrame.UWP
 ```
@@ -26,7 +26,7 @@ PM> Install-Package CacheFrame.UWP
 This library works like Objective-C and Swift NSNotificationCenter. 
 [NotificationCenter repository](https://github.com/Husseinhj/NotificationCenter)
 
-Nuget:
+**Nuget:**
 ```
 PM> Install-Package NotificationCenter
 ```
@@ -35,7 +35,7 @@ PM> Install-Package NotificationCenter
 Country picker control for Windows Universal App.
 [CountryPicker.UWP repository](https://github.com/Husseinhj/CountryPicker.UWP)
 
-Nuget:
+**Nuget:**
 ```
 PM> Install-Package CountryPicker.UWP
 ```
@@ -44,7 +44,7 @@ PM> Install-Package CountryPicker.UWP
 Detect your device is 4 or 4.5 , 5 , 6 , tablet or wide ,... .
 [DeviceDetection.UWP repository](https://github.com/Husseinhj/DeviceDetection.UWP)
 
-Nuget:
+**Nuget:**
 ```
 PM> Install-Package DeviceDetection.UWP
 ```
@@ -55,15 +55,15 @@ PM> Install-Package DeviceDetection.UWP
 This is a simple queue with Infinite or limit length and also dequeue periodic with timer for iOS platforms Edit Add topics.
 [TimerHJQueue repository](https://github.com/Husseinhj/TimerHJQueue)
 
-CocoaPods : 
+**CocoaPods :** 
 ```
 pod 'TimerHJQueue'
 ```
 
 #### Sample for TimerHJQueue
-Sample code for TimerHJQueue.
+Sample code for `TimerHJQueue`.
 [ObjcSampleHJQueue repository](https://github.com/Husseinhj/ObjcSampleHJQueue)
 
 ### Shell
-Script for build iOS universal framework with Terminal or Jenkins or any tools.
+Script for build iOS universal framework with Terminal or `Jenkins` or any tools.
 [Build-iOS-Framewrok-With-Jenkins repository](https://github.com/Husseinhj/Build-iOS-Framewrok-With-Jenkins)
