@@ -3,11 +3,11 @@ Hi guys.
 
 ## Projects
 
-Fast dictionary Windows Phone app.
-Fax.IR Windows Phone app.
-Navad tv show iOS (Objective-C app).
-ChabokPush iOS framework.
-ChabokPush UWP SDK.
+ - Fast dictionary Windows Phone app.
+ - Fax.IR Windows Phone app.
+ - Navad tv show iOS (Objective-C app).  
+ - ChabokPush iOS framework.
+ - ChabokPush UWP SDK.
 
 ## Libraries
 
@@ -54,6 +54,7 @@ PM> Install-Package DeviceDetection.UWP
 #### TimerHJQueue
 This is a simple queue with Infinite or limit length and also dequeue periodic with timer for iOS platforms Edit Add topics.
 [TimerHJQueue repository](https://github.com/Husseinhj/TimerHJQueue)
+
 CocoaPods : 
 ```
 pod 'TimerHJQueue'
