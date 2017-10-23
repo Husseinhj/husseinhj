@@ -1,5 +1,9 @@
 # Hussein Habibi Juybari
-Hi guys.
+Hi guys. I'm developer.
+
+C# .NET (functional programming)
+Objective-C
+Swift
 
 ## Projects
 
