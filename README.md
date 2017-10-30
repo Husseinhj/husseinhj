@@ -7,8 +7,8 @@ Hi guys. I'm developer at [Atie Dadeh Pardaz](www.adpdigital.com). You can commu
 
 ## Projects
 
- - `Fast dictionary` [Windows Phone app](www.fastdic.com).
- - `Fax.IR` [Windows Phone app](www.fax.ir).
+ - `Fast dictionary` [Windows Phone app](http://www.fastdic.com).
+ - `Fax.IR` [Windows Phone app](http://www.fax.ir).
  - `Navad` [tv show iOS (Objective-C app)](https://itunes.apple.com/us/app/navad/id1055781884?mt=8).  
  - `ChabokPush` [iOS framework](https://cocoapods.org/pods/ChabokPush).
  - `ChabokPush` [UWP SDK](https://www.nuget.org/packages/ADPPushSDK).
