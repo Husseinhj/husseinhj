@@ -1,5 +1,5 @@
 # Hussein Habibi Juybari
-Hi guys. I'm developer.
+Hi guys. I'm developer at [Atie Dadeh Pardaz](www.adpdigital.com). You can communicate me with Hussein.Juybari@gmail.com.
 
 - C# .NET (functional programming)
 - Objective-C
@@ -7,11 +7,11 @@ Hi guys. I'm developer.
 
 ## Projects
 
- - `Fast dictionary` Windows Phone app.
- - `Fax.IR` Windows Phone app.
- - `Navad` tv show iOS (Objective-C app).  
- - `ChabokPush` iOS framework.
- - `ChabokPush` UWP SDK.
+ - `Fast dictionary` [Windows Phone app](www.fastdic.com).
+ - `Fax.IR` [Windows Phone app](www.fax.ir).
+ - `Navad` [tv show iOS (Objective-C app)](https://itunes.apple.com/us/app/navad/id1055781884?mt=8).  
+ - `ChabokPush` [iOS framework](https://cocoapods.org/pods/ChabokPush).
+ - `ChabokPush` [UWP SDK](https://www.nuget.org/packages/ADPPushSDK).
 
 ## Libraries
 
