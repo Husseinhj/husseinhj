@@ -64,6 +64,14 @@ This is a simple queue with Infinite or limit length and also dequeue periodic w
 pod 'TimerHJQueue'
 ```
 
+#### ios_calendar 
+Calendar for iOS platform with supporting persian and locale.
+[ios_calendar repository](https://github.com/maximbilan/ios_calendar)
+
+#### ChabokPush
+Blow some breath to your app with Chabok realtime messaging and receive push notifications cross any platform with zero code. Know your users's better, push them content based on their location or track their presence/location withoud headache.
+[ChabokPush](https://github.com/chabokpush/chabok-client-ios)
+
 #### Sample for TimerHJQueue
 Sample code for `TimerHJQueue`.
 [ObjcSampleHJQueue repository](https://github.com/Husseinhj/ObjcSampleHJQueue)
