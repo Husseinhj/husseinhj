@@ -68,9 +68,19 @@ pod 'TimerHJQueue'
 Calendar for iOS platform with supporting persian and locale.
 [ios_calendar repository](https://github.com/maximbilan/ios_calendar)
 
+**ios_calendar**
+```
+pod 'Calendar-iOS'
+```
+
 #### ChabokPush
 Blow some breath to your app with Chabok realtime messaging and receive push notifications cross any platform with zero code. Know your users's better, push them content based on their location or track their presence/location withoud headache.
 [ChabokPush](https://github.com/chabokpush/chabok-client-ios)
+
+**ChabokPush**
+```
+pod 'ChabokPush'
+```
 
 #### Sample for TimerHJQueue
 Sample code for `TimerHJQueue`.
