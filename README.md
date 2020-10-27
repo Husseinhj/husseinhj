@@ -3,7 +3,5 @@
 
 ![HusseinHJ's github stats](https://github-readme-stats.vercel.app/api?username=husseinhj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<a href="https://github.com/husseinhj/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinhj&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
-</a>
+![HusseinHJ's top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinhj&langs_count=8&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
 
