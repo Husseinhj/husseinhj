@@ -3,5 +3,5 @@
 
 ![HusseinHJ's github stats](https://github-readme-stats.vercel.app/api?username=husseinhj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![HusseinHJ's top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinhj&langs_count=8&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
+![HusseinHJ's top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinhj&langs_count=8&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&exclude_repo=CacheFrame.UWP,Fat-Framework-Script-For-iOS,Datas,rtlstackedit,CustomContentDialog,DeviceDetection.UWP,CountryPicker.UWP,Windows_Calendar,react-native-clean-project)
 
